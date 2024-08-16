@@ -1,5 +1,5 @@
 ## Description
-*Criminalip_:eyes:* is a program that use the criminal IP banner search API to take your search queries and output the key data in a format so polished, it might just get a promotion. :sparkles:
+*Criminalip_👀* is a program that use the criminal IP banner search API to take your search queries and output the key data in a format so polished, it might just get a promotion. :sparkles:
 
 ## About
 It uses the criminal IP banner search API to take your queries and print out search results with enough flair to make even your debugging sessions look stylish :smirk: 
